@@ -27,7 +27,7 @@ body {
 .cardimg {
     width: 80px;
     height: 80px;
-    /* overflow: hidden; */
+    overflow: hidden;
     border-radius: 100%;
     margin: -35px auto 0;
     background-color: rgb(0, 0, 0);
