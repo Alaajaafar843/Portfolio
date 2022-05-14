@@ -1,8 +1,5 @@
-body {
-    overflow-x: hidden !important;
-}
-.name{
-    font-size: 55px;
+
+.name{    font-size: 55px;
     font-weight: bold;
 }
 #avatar {
